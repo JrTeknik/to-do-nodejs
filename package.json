@@ -1,0 +1,23 @@
+{
+  "name": "to-do-nodejs",
+  "version": "1.0.0",
+  "description": "To do app build with NodeJs - RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JrTeknik/to-do-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JrTeknik/to-do-nodejs/issues"
+  },
+  "homepage": "https://github.com/JrTeknik/to-do-nodejs#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
