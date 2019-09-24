@@ -1,6 +1,6 @@
 const url = require('url');
 
-export sampleRequest = function(req, res) {
+export.sampleRequest = function(req, res) {
     const reqUrl = url.parse(req.url, true);
     var name = 'your query does not provided a value for name variabel';
     if (reqUrl.query.name) {
